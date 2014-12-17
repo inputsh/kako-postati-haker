@@ -1,4 +1,4 @@
-# Kako doprinijeti list?
+# Kako doprinijeti listi?
 
 ## Korišćenje GitHub servisa
 
