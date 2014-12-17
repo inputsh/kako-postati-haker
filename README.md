@@ -28,8 +28,10 @@ Pa, da počnemo.
 
 * [How Hacking Changed My Life](https://aleksandartodorovic.wordpress.com/2014/07/27/how-hacking-changed-my-life/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
 
-## Dodavanje novih postova u listu
+## O listi
 
-Ukoliko želite da dodate neki post u ovu listu, pratite ovaj oblik formatiranja:
+Lista je namijenjena za sve one koji žele da nauče ponešto o pojmu hakovanja. Listu objavljujem pod [CC-BY-SA licencom](http://creativecommons.org/licenses/by-sa/4.0/), što ukratko znači da imate prava da sa listom radite šta god da želite, u bilo koje svrhe (bile one i komercijalne), pod uslovima da me navedete kao autora i svoju verziju rada objavite pod istom ili kompatibilnom licencom.
 
-    * [Naslov posta](http://linkkapostu.com) ([Naziv autora](https://autorovawebstranica.com))
+Ukoliko želite da saznate kako da doprinesete razvoju ove liste, [pogledajte ovdje](https://github.com/aleksandar-todorovic/kako-postati-haker/blob/master/kako_doprinijeti.md).
+
+Autor: [Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/), u decembru 2014. godine.
