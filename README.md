@@ -12,6 +12,7 @@ Pa, da počnemo.
 * [Through the Algorithm (2014) To a Free World](https://aleksandartodorovic.wordpress.com/2014/12/07/algorithm-to-a-free-world/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
 * [Poznati hakeri i začetnici hakovanja](http://svethakera.blogspot.com/2012/05/poznati-hakeri-i-zacetnici-hakovanja.html) (nepoznat autor, objavljeno na blogu [Svet Hakera](http://svethakera.blogspot.com/))
 * [Hakerska kultura](http://svethakera.blogspot.com/2008/10/hakerska-kultura.html) (nepoznat autor, objavljeno na blogu  [Svet Hakera](http://svethakera.blogspot.com/))
+* [Hacking Before Computers](https://www.youtube.com/watch?v=PrJLMlGWN4w) ([Vojislav Antonić](http://en.wikipedia.org/wiki/Voja_Antoni%C4%87))
 
 ## Primjenjivi hakerski trikovi
 
