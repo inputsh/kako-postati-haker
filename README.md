@@ -10,8 +10,8 @@ Pa, da počnemo.
 * [What Exactly Is a Hacker?](https://aleksandartodorovic.wordpress.com/2014/10/18/what-exactly-is-a-hacker/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
 * [Kako postati haker?](https://hacker.lugons.org/) ([Eric Steven Raymond](http://www.catb.org/~esr/)) (prevod nam donosi [LUGoNS tim](https://lugons.org/))
 * [Through the Algorithm (2014) To a Free World](https://aleksandartodorovic.wordpress.com/2014/12/07/algorithm-to-a-free-world/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
-* [Poznati hakeri i začetnici hakovanja](http://svethakera.blogspot.com/2012/05/poznati-hakeri-i-zacetnici-hakovanja.html) (nepoznat autor, objavljeno na blogu Svet Hakera)
-* [Hakerska kultura](http://svethakera.blogspot.com/2008/10/hakerska-kultura.html) (nepoznat autor, objavljeno na blogu Svet Hakera)
+* [Poznati hakeri i začetnici hakovanja](http://svethakera.blogspot.com/2012/05/poznati-hakeri-i-zacetnici-hakovanja.html) (nepoznat autor, objavljeno na blogu [Svet Hakera](http://svethakera.blogspot.com/))
+* [Hakerska kultura](http://svethakera.blogspot.com/2008/10/hakerska-kultura.html) (nepoznat autor, objavljeno na blogu  [Svet Hakera](http://svethakera.blogspot.com/))
 
 ## Primjenjivi hakerski trikovi
 
