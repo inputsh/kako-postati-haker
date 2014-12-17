@@ -1,6 +1,6 @@
 # Kako postati haker?
 
-Spisak postova domaćih autora povezanih sa pojmovima kao što su "haker" i "hakovanje". Nakon čitanja svih članaka u ovoj listi nećete moći da provalite u Pentagon, ali ćete bar shvatiti ponešto o hobiju (ili čak profesiji) kojom želite da se bavite i naučiti kako sami da uradite nešto. Postovi su grupisani po temama. Veći broj postova će donijeti i precizniji oblik grupisanja postova.
+Spisak postova domaćih autora povezanih sa pojmovima kao što su "haker" i "hakovanje". Nakon čitanja svih članaka u ovoj listi nećete moći da provalite u Pentagon, ali ćete bar shvatiti ponešto o hobiju (ili čak profesiji) kojom želite da se bavite i naučiti kako sami da uradite nešto. Postovi su grupisani po temama. Veći broj postova će donijeti i precizniji oblik grupisanja postova. Uvodni tekst projekta možete pročitati [ovdje](https://aleksandartodorovic.wordpress.com/2014/12/17/dosta-kako-postati-haker-pitanja/).
 
 Pa, da počnemo.
 
