@@ -1,12 +1,14 @@
 # Kako postati haker?
 
-Spisak postova domaćih autora povezanih sa pojmovima kao što su "haker" i "hakovanje". Nakon čitanja svih članaka u ovoj listi nećete moći da provalite u Pentagon, ali ćete bar shvatiti ponešto o hobiju (ili čak profesiji) kojom želite da se bavite i naučiti kako sami da uradite nešto. Postovi su grupisani po temama. Veći broj postova će donijeti i precizniji oblik grupisanja postova. Uvodni tekst projekta možete pročitati [ovdje](https://aleksandartodorovic.wordpress.com/2014/12/17/dosta-kako-postati-haker-pitanja/).
+Spisak postova domaćih autora povezanih sa pojmovima kao što su "haker" i "hakovanje". Nakon čitanja svih članaka u ovoj listi nećete moći da provalite u Pentagon, ali ćete bar shvatiti ponešto o hobiju (ili čak profesiji) kojom želite da se bavite i naučiti kako sami da uradite nešto. Postovi su grupisani po temama. Veći broj postova će donijeti i precizniji oblik grupisanja postova. Uvodni tekst o samom početku projekta možete pročitati [ovdje](https://aleksandartodorovic.wordpress.com/2014/12/17/dosta-kako-postati-haker-pitanja/).
 
 Pa, da počnemo.
 
 ## Osnovni pojmovi i istorija
 
 * [Šta je haker?](http://kompjuteras.com/sta-je-haker/) ([Darko Dražović](http://kompjuteras.com/))
+* [Pojam haker na bosanskoj Wikipediji](https://bs.wikipedia.org/wiki/Haker) (autor nepoznat)
+* [Pojam haker na srpskoj Wikipediji ](https://sr.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BA%D0%B5%D1%80) (_ćirilica_) (autor nepoznat)
 * [What Exactly Is a Hacker?](https://aleksandartodorovic.wordpress.com/2014/10/18/what-exactly-is-a-hacker/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
 * [Kako postati haker?](https://hacker.lugons.org/) ([Eric Steven Raymond](http://www.catb.org/~esr/)) (prevod nam donosi [LUGoNS tim](https://lugons.org/))
 * [Through the Algorithm (2014) To a Free World](https://aleksandartodorovic.wordpress.com/2014/12/07/algorithm-to-a-free-world/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
