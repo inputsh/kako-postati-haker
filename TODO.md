@@ -19,6 +19,7 @@
 * [Bosanska Wikipedia](http://bs.wikipedia.org/wiki/Po%C4%8Detna_strana)
 * [Srpska Wikipedia](http://sr.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0)
 * [Hrvatska Wikipedia](http://hr.wikipedia.org/wiki/Glavna_stranica)
+* [Linux za sve](http://www.linuxzasve.com/) - provjeren portal, nije forum; samo tekstovi sa uputama provjereni
 
 ## Članci za provjeru
 
@@ -29,4 +30,11 @@
 
 ## Izvori koji se tek trebaju pregledati
 
-(_ništa za sada_)
+* [FOSS.rs forum](http://www.foss.rs/) - nije potrebna registracija
+* [Linux za sve (forum)](http://www.linuxzasve.com/forum/) - nije potrebna registracija
+* [Hacker.rs](http://hacker.rs/)
+* [Centar za otvoreni kod](http://otvorenikod.nsk.hr/)
+
+## Izvori koji otpadaju
+
+* [Ljuska.org](https://ljuska.org/) - potrebna registracija
