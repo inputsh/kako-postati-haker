@@ -31,6 +31,17 @@ Pa, da počnemo.
 
 * [How Hacking Changed My Life](https://aleksandartodorovic.wordpress.com/2014/07/27/how-hacking-changed-my-life/) ([Aleksandar Todorović](https://aleksandartodorovic.wordpress.com/))
 
+## Korisni linkovi
+
+Ovi linkovi su većinom na engleskom jeziku. Ovi linkovi su za one koji žele istraže pojmove malo dalje.
+
+* [Hackerspaces.org](http://hackerspaces.org/wiki/)
+* [Kali Linux](http://www.kali.org/)
+* [80+ Best Free Hacking Tutorials](http://www.fromdev.com/2013/07/Hacking-Tutorials.html)
+* [Def Con Reading List](https://www.defcon.org/html/links/book-list.html)
+* [Def Con Torrents](https://www.defcon.org/html/links/dc-torrent.html)
+* [Hackaday Projects](http://hackaday.io/)
+
 ## O listi
 
 Lista je namijenjena za sve one koji žele da nauče ponešto o pojmu hakovanja. Listu objavljujem pod [CC-BY-SA licencom](http://creativecommons.org/licenses/by-sa/4.0/), što ukratko znači da imate prava da sa listom radite šta god da želite, u bilo koje svrhe (bile one i komercijalne), pod uslovima da me navedete kao autora i svoju verziju rada objavite pod istom ili kompatibilnom licencom.

@@ -10,6 +10,7 @@
 * Dodati posebnu listu za Linux.
 * Dodati spisak konferencija na našim prostorima zajedno sa listom prethodno održanih. Spadaju: konferencije, hackathoni, dani slobodnog softvera i slično.
 * Napraviti listu hackerspace zajednica na našim prostorima.
+* Dodati listu korisnih linkova za učenje (englesko govorno područje).
 
 ## Pregledani izvori
 
@@ -34,6 +35,7 @@
 * [Linux za sve (forum)](http://www.linuxzasve.com/forum/) - nije potrebna registracija
 * [Hacker.rs](http://hacker.rs/)
 * [Centar za otvoreni kod](http://otvorenikod.nsk.hr/)
+* [HrOpenWiki](http://wiki.open.hr/wiki/Naslovnica)
 
 ## Izvori koji otpadaju
 
