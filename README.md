@@ -35,12 +35,15 @@ Pa, da počnemo.
 
 Ovi linkovi su većinom na engleskom jeziku. Ovi linkovi su za one koji žele istraže pojmove malo dalje.
 
-* [Hackerspaces.org](http://hackerspaces.org/wiki/)
-* [Kali Linux](http://www.kali.org/)
-* [80+ Best Free Hacking Tutorials](http://www.fromdev.com/2013/07/Hacking-Tutorials.html)
-* [Def Con Reading List](https://www.defcon.org/html/links/book-list.html)
-* [Def Con Torrents](https://www.defcon.org/html/links/dc-torrent.html)
-* [Hackaday Projects](http://hackaday.io/)
+* [Hackerspaces.org](http://hackerspaces.org/wiki/) - lista hackerspace-ova
+* [Kali Linux](http://www.kali.org/) - najpoznatija Linux distribucija za hakere
+* [80+ Best Free Hacking Tutorials](http://www.fromdev.com/2013/07/Hacking-Tutorials.html) - lista tutorijala na engleskom
+* [Def Con Reading List](https://www.defcon.org/html/links/book-list.html) - lista za čitanje sastavljena od strane najveće hakerske konferencije u svijetu
+* [Def Con Torrents](https://www.defcon.org/html/links/dc-torrent.html) - preuzimanje torrenta sa snimcima sa najveće hakerske konferencije u svijetu
+* [Hackaday Projects](http://hackaday.io/) - DIY hakerski projekti
+* [Exploit Database](http://www.exploit-db.com/) - baza podataka sa aktuelnim exploit-ima
+* [The Hacker News](http://thehackernews.com/) - news portal za hakere
+
 
 ## O listi
 
