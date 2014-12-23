@@ -24,9 +24,6 @@
 
 ## Članci za provjeru
 
-* [FLOSS kao mainstream? Da, ali pod kojim uvjetima?](http://www.linuxzasve.com/floss-kao-mainstream-da-ali-pod-kojim-uvjetima)
-* [10 stvari koje trebate znati o softveru otvorenog kôda](http://www.linuxzasve.com/10-stvari-koje-trebate-znati-o-softveru-otvorenog-koda)
-* [Spajanje na tematske IRC kanale](http://www.linuxzasve.com/spajanje-na-tematske-irc-kanale)
 * [Hack the shell prvi dio – Napad na shell](http://www.linuxzasve.com/hack-the-shell-prvi-dio-napad-na-shell) (ima 6 dijelova)
 
 ## Izvori koji se tek trebaju pregledati
