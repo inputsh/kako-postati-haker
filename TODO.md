@@ -24,7 +24,7 @@
 
 ## Članci za provjeru
 
-* [Hack the shell prvi dio – Napad na shell](http://www.linuxzasve.com/hack-the-shell-prvi-dio-napad-na-shell) (ima 6 dijelova)
+(_svi članci koji su trebali proći provjeru su već provjereni_)
 
 ## Izvori koji se tek trebaju pregledati
 
